@@ -1,0 +1,138 @@
+.top-section {
+  background-image: url(../images/main-backround.png);
+  height: 810px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.text-row {
+  padding-top: 40px;
+  color: white;
+  width: 730px;
+  height: 96px;
+  font-size: 20px;
+  text-align: center;
+}
+main {
+  background-color: #000000;
+}
+.middle-backround {
+  background-image: url(../images/backround-middle.png);
+  height: 730px;
+  width: 50%;
+}
+.img-text {
+  background-color: #191b1c;
+  display: flex;
+  flex-direction: column;
+  color: #d0d0d0;
+  text-align: center;
+  height: 280px;
+}
+
+.for-watch {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.middle-section {
+  display: flex;
+  height: 730px;
+}
+.middle-backround h1 {
+  font-size: 55px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-top: 450px;
+}
+.btn-middle {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+.btn-middle button {
+  height: 70px;
+  width: 140px;
+  border: 4px solid;
+  font-size: 30px;
+  color: white;
+  background-color: transparent;
+  margin-top: 20px;
+}
+hr {
+  display: flex;
+  justify-self: center;
+  width: 200px;
+}
+
+.photo-backround {
+  display: flex;
+  background-image: url(/images/thrid-backround.png);
+  width: 50%;
+  height: 600px;
+}
+.third-section {
+  display: flex;
+}
+.about {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  width: 50%;
+}
+.about p {
+  display: flex;
+  width: 600px;
+  margin: auto;
+}
+.line {
+  width: 200px;
+  height: 1px;
+  display: flex;
+  margin-top: 120px;
+  margin: auto;
+}
+.about h1 {
+  display: flex;
+  margin-left: 150px;
+  margin: auto;
+}
+.bottom-section {
+  display: flex;
+  gap: 45px;
+  flex-direction: column;
+}
+.bottom-text {
+  display: flex;
+  color: white;
+  justify-content: center;
+  margin-bottom: 60px;
+  margin-top: 60px;
+}
+.bottom-watch {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+.foot{
+
+    background-color: #0F0F0F;
+    height: 362px;
+    width: 100%;
+  
+}
+.rasmlar{
+    margin-top: 40px;
+    display: flex;
+   justify-content: center;
+   gap: 200px;
+}
